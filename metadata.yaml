@@ -1,0 +1,26 @@
+_repo: The-Influence-of-the-StarsA-book-of-old-world-lore_42889
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42889-h/images/coverandspine.jpg
+creator:
+  author:
+    agent_name: Baughan, Rosa
+    gutenberg_agent_id: '41914'
+    url: http://www.gutenberg.org/2009/agents/41914
+description: ''
+gutenberg_issued: '2013-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Palmistry'
+- !lcc 'BF'
+- !lcsh 'Physiognomy'
+- !lcsh 'Astrology'
+title: 'The Influence of the Stars: A book of old world lore'
+url: http://www.gutenberg.org/ebooks/42889
